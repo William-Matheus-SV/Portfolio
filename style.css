@@ -103,12 +103,6 @@ body {
   gap: 20px;
 }
 
-.img-box {
-  background: #0EDB9C;
-  padding: 10px;
-  border-radius: 20px;
-}
-
 .img-box img {
   width: 260px;
   border-radius: 15px;
