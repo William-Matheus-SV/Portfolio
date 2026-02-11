@@ -2,7 +2,7 @@
 
 **Estudante de Programação**
 
-Olá, me chamo William Matheus, estou com 31 anos e sou natural de Pernambuco, Recife. Formado em Sistemas de Informação pela faculdade Mauricio de Nassau em 2017 e atualmente retornei aos estudos de programação visando me atualizar no curso técnico de Desenvolvimento de Sistemas no SENAI-PE. 
+Olá, me chamo William Matheus, estou com 32 anos e sou natural de Pernambuco, Recife. Formado em Sistemas de Informação pela faculdade Mauricio de Nassau em 2017 e atualmente retornei aos estudos de programação visando me atualizar no curso técnico de Desenvolvimento de Sistemas no SENAI-PE. 
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -74,7 +74,7 @@ Olá, me chamo William Matheus, estou com 31 anos e sou natural de Pernambuco, R
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-matheus-sv&theme=tokyonight&layout=compact&custom_tile=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-matheus-sv&theme=tokyonight&layout=compact&custom_tile=Tecnologias&langs_count=9&cache_seconds=86400" 
   />
 
 </p>
